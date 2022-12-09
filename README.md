@@ -1,4 +1,6 @@
-# test
+# Bug reproduction
+Nuxt + Storybook module + i18n module with lazy translations = no devtools 💔  
+See https://github.com/nuxt-community/storybook/issues/403
 
 ## Build Setup
 
